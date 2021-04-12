@@ -1,0 +1,1 @@
+C:/wamp64/www/TP-Agencia-master/wp-content/plugins/query-monitor/wp-content/db.php
