@@ -117,7 +117,7 @@ add_action('init', function() use (&$propertyCategories) {
 });
 
 //Menu current page
-// selectionne l'onglet Acheter quand tu cliques sur le un bien achat 
+// selectionne l'onglet Acheter quand tu cliques sur le bien achat 
 
 add_filter('nav_menu_css_class', function (array $classes, WP_Post $item): array {
     if(is_post_type_archive('property')) {
